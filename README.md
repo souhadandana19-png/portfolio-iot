@@ -63,7 +63,7 @@ Gestion chauffeur : réception, acceptation ou refus des courses avec mise à jo
 
 ### Application mobile
 
-<img src="images/Capture1.png" width="400">
+<img src="application iTAXI.png" width="400">
 
 <img src="images/application2.png" width="400">
 
