@@ -89,10 +89,20 @@ Automatisation : communication Firebase et suivi GPS gérés automatiquement par
 
 <img src="application iTAXI.png" width="200">
 
-<img src="processus de connexion malvoyants.png" width="200">
+<img src="processus de connexion malvoyants.png" width="400">
 
 <img src="reservation.png" width="200">
 
+<img src="suivi.png" width="200">
+
+<img src="evaluation.png" width="200">
+
 ### Système embarqué
 
-<img src="images/esp32.jpg" width="400">
+<img src="image1" width="300">
+
+<img src="schéma electrique.png" width="200">
+
+<img src="schéma pcb.png" width="200">
+
+<img src="schéma 3D.png" width="200">
