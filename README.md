@@ -99,10 +99,10 @@ Automatisation : communication Firebase et suivi GPS gérés automatiquement par
 
 ### Système embarqué
 
-<img src="image1" width="300">
+<img src="image1.png" width="400">
 
-<img src="schéma electrique.png" width="200">
+<img src="schéma electrique.png" width="400">
 
-<img src="schéma pcb.png" width="200">
+<img src="schéma pcb.png" width="400">
 
-<img src="schéma 3D.png" width="200">
+<img src="schéma 3D.png" width="400">
