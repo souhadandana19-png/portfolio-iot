@@ -87,9 +87,11 @@ Automatisation : communication Firebase et suivi GPS gérés automatiquement par
 
 ### Application mobile
 
-<img src="application iTAXI.png" width="400">
+<img src="application iTAXI.png" width="200">
 
-<img src="images/application2.png" width="400">
+<img src="processus de connexion malvoyants.png" width="200">
+
+<img src="reservation.png" width="200">
 
 ### Système embarqué
 
