@@ -52,12 +52,36 @@ L'architecture IoT s'appuie sur une communication bidirectionnelle entre le boî
   
 ### Fonctionnalités principales
 
-Authentification client : création de compte et connexion à la plateforme.
-Recherche et réservation de taxi : affichage des taxis disponibles en temps réel via Firebase, sélection du taxi et envoi des informations au chauffeur.
-Suivi en temps réel : localisation du taxi avec carte et guidage vocal pour les clients malvoyants.
-Gestion des favoris et historique : consultation des trajets et réservation rapide.
-Système IoT embarqué : géolocalisation GPS avec ESP32, communication Firebase et affichage LCD des informations de course.
-Gestion chauffeur : réception, acceptation ou refus des courses avec mise à jour automatique du statut du taxi.
+### Client standard
+Authentification : création de compte et connexion à la plateforme.
+
+Recherche des taxis disponibles : affichage en temps réel des taxis via Firebase avec leur identifiant, statut, distance et prix estimé.
+
+Réservation d’un taxi : sélection du taxi, saisie de la destination et transmission des informations au chauffeur.
+
+Suivi en temps réel : visualisation du trajet sur une carte avec le parcours et le temps restant.
+
+Favoris et historique : consultation des trajets et réservation rapide depuis les taxis favoris.
+### Client malvoyant
+ Commande vocale : authentification et interaction avec l’application par la voix.
+ 
+ Recherche et sélection vocale : annonce des taxis proches et choix d’un taxi par son identifiant.
+ 
+ Guidage vocal : suivi du taxi et indication de la distance en temps réel.
+ 
+Gestion vocale : consultation de l’historique et gestion des favoris.
+### Système IoT du taxi
+Géolocalisation GPS : suivi de la position du taxi avec ESP32 et envoi des données vers Firebase.
+
+Affichage LCD : affichage de la destination, de l’identifiant et du type du client.
+
+Mise à jour du statut : passage automatique du taxi de disponible à occupé après validation.
+### Chauffeur
+Gestion des courses : réception des informations du trajet sur l’écran LCD.
+
+Acceptation ou refus : contrôle de la demande avec des boutons-poussoirs.
+
+Automatisation : communication Firebase et suivi GPS gérés automatiquement par l’ESP32.
 
 ## Captures d'écran
 
