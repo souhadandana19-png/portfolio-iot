@@ -35,7 +35,7 @@ voir le projet : https://github.com/souhadandana19-png/iTAXI
 
 ## Projet de Fin d'année
 ### Maison intelligente
-voir le projet :
+voir le projet :https://github.com/souhadandana19-png/maison-intelligente
 
 
 
